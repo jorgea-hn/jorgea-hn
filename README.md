@@ -1,14 +1,11 @@
   JORGE ALBERTO HENRIQUEZ NOVOA
   
   **Hola Soy Jorge Henriquez**
-  <br>Soy un aprendiz de desarrollo frontend, me gusta el desarrollo weby el diseño, me gusta crear ilustraciones y soy bueno dibujando, 
-  actualmente me encuentro creando mi marca personal, y estudiando de manera autodidacta para mejorar mis habilidades.
-
-  **Estoy interesado en**
-  <br>Mejorar mis habilidades practicas de diferentes lenguajes.
+  <br>Soy un Ingeniero Electronico que se encamino en el mundo de la programacion y el analisis de datos, me encuentro creando proyectos de 
+  con el conocimiento que he acumulado a lo largo del tiempo, me gusta hacer ilustraciones, y aprender constantemente.
   
   **Estoy aprendiendo**
-  <br>Actualemente estoy aprendiendo Angular y la nube de AWS.
+  <br>Actualmente estoy creando proyectos de Django
   
   **Me gustaria**
   <br>Me gustaria colaborar en cualquier proyecto de desarrollo web, o voluntariado.
