@@ -1,16 +1,48 @@
-  JORGE ALBERTO HENRIQUEZ NOVOA
+# Hi 👋, I'm Jorge Alberto Henriquez Novoa
+
+### Passionate Developer: Frontend React, Backend Python, React Native App Developer, and Data Analyst from Colombia
+
+---
+
+## About Me
+
+Hi, I'm Jorge Henriquez. I am an Electronic Engineer with one year of experience in web development and one year of experience in data analysis. I have knowledge in cloud platforms such as AWS, Azure, and Oracle. I enjoy creating projects with the knowledge I have accumulated over time, making illustrations, and constantly learning. I am also fascinated by design.
+
+---
+
+## Currently Learning
+
+- **React Native**
+
+---
+
+## Projects
+
+All of my projects are available at [My Portfolio](https://portfolio-jorgeahn.vercel.app/)
+
+---
+
+## Collaboration
+
+I would like to collaborate on any web development or volunteer project.
+
+---
+
+## Skills
+- **JavaScript**
+- **React**
+- **Python**
+- **Flask**
+- **Django**
+- **Java**
+
+---
+
+## Contact Me
+
+- **Email**: [jorgeahenriqueznovoa@gmail.com](mailto:jorgeahenriqueznovoa@gmail.com)
+
+
+
   
-  **Hola Soy Jorge Henriquez**
-  <br>Soy un Ingeniero Electronico que se encamino en el mundo de la programacion y el analisis de datos, me encuentro creando proyectos de 
-  con el conocimiento que he acumulado a lo largo del tiempo, me gusta hacer ilustraciones, y aprender constantemente.
-  
-  **Estoy aprendiendo**
-  <br>Actualmente estoy creando proyectos de Django
-  
-  **Me gustaria**
-  <br>Me gustaria colaborar en cualquier proyecto de desarrollo web, o voluntariado.
-  
-  **Puedes encontrarme en**
-  <br>Twitter: @jorgea_hn
-  <br>Instagram: jorge.a_hn
 
